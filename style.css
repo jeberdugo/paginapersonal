@@ -210,10 +210,16 @@ section{
         padding-left: 0;
         padding-right: 0;
     }
-    .center-md{
+    .center-md, .info-text{
         text-align: center;
         }
     
+  }
+
+  footer{
+    background-color: #1d1c1c;
+    padding: 50px;
+    color: white;
   }
       
   
